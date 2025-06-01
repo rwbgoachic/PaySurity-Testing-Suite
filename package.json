@@ -1,0 +1,14 @@
+{
+  "name": "paysurity-testing-suite",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "@types/jest": "^29.0.0",
+    "supertest": "^6.0.0",
+    "@types/supertest": "^2.0.12"
+  }
+}
